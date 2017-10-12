@@ -3,7 +3,7 @@
 ## 注意事項
 
 1. 作業請以 Pull Request (PR) 方式繳交。若有以下情況，PR 可能會被退回：
-   * Github 帳號尚未設定個人 Avatar。
+   * GitHub 帳號尚未設定個人 Avatar。
    * 檔案不是放在個人學號目錄裡。
    * 單次 PR 的 Commit 次數過多，而且每次的 Commit 都只有一點點的修改。
    * Commit 或 PR 的訊息無意義。
